@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542395613 source:c:\users\ufuk\code blocks doc\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<sys/time.h>
+
